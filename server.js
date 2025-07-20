@@ -17,10 +17,11 @@ app.get('/imageList', function(req, res) {
     }
     )});
 
-app.get('/img/category/:category/name/:name', cors(), function(req, res) {
+app.get('/img/category/:category{/domain/:domain}/name/:name', cors(), function(req, res) {
     const category = req.params.category;
     const name = req.params.name;
-    const filePath = `${cardPath}/${category}/${name}.png`;
+    const domain = req.params.domain ? req.params.domain+"/" : "";
+    const filePath = `${cardPath}/${category}/${domain}${name}.png`;
     const fileType = 'image/png';
     const readStream = fs.createReadStream(filePath);
     readStream.on('open', function() {

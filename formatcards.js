@@ -19,7 +19,7 @@ for(let folderIndex = 0; folderIndex < cardFolders.length; folderIndex++)
             for(let cardIndex = 0; cardIndex < cardImages.length; cardIndex++)
             {
                 const cardPath = `${category}/${domainList[domainIndex]}/${cardImages[cardIndex]}`
-                cards[category][domainList[domainIndex]].push({"id": index, "name": cardImages[cardIndex].split('.')[0], "path": cardPath, "category": category});
+                cards[category][domainList[domainIndex]].push({"id": index, "name": cardImages[cardIndex].split('.')[0], "path": cardPath, "category": category, "domain": domainList[domainIndex]});
                 index++;
             }
         }
@@ -31,7 +31,7 @@ for(let folderIndex = 0; folderIndex < cardFolders.length; folderIndex++)
         for(let cardIndex = 0; cardIndex < cardImages.length; cardIndex++)
         {
             const cardPath = `${category}/${cardImages[cardIndex]}`
-            cards[category].push({"id": index, "name": cardImages[cardIndex].split('.')[0], "path": cardPath, "category": category});
+            cards[category].push({"id": index, "name": cardImages[cardIndex].split('.')[0], "path": cardPath, "category": category, "domain": "N/A"});
             index++;
         }
     }

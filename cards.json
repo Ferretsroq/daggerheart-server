@@ -4,109 +4,127 @@
       "id": 0,
       "name": "clank",
       "path": "Ancestry/clank.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 1,
       "name": "drakona",
       "path": "Ancestry/drakona.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 2,
       "name": "dwarf",
       "path": "Ancestry/dwarf.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 3,
       "name": "elf",
       "path": "Ancestry/elf.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 4,
       "name": "faerie",
       "path": "Ancestry/faerie.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 5,
       "name": "faun",
       "path": "Ancestry/faun.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 6,
       "name": "firbolg",
       "path": "Ancestry/firbolg.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 7,
       "name": "fungril",
       "path": "Ancestry/fungril.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 8,
       "name": "galapa",
       "path": "Ancestry/galapa.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 9,
       "name": "giant",
       "path": "Ancestry/giant.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 10,
       "name": "goblin",
       "path": "Ancestry/goblin.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 11,
       "name": "halfling",
       "path": "Ancestry/halfling.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 12,
       "name": "human",
       "path": "Ancestry/human.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 13,
       "name": "infernis",
       "path": "Ancestry/infernis.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 14,
       "name": "katari",
       "path": "Ancestry/katari.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 15,
       "name": "orc",
       "path": "Ancestry/orc.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 16,
       "name": "ribbet",
       "path": "Ancestry/ribbet.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     },
     {
       "id": 17,
       "name": "simiah",
       "path": "Ancestry/simiah.png",
-      "category": "Ancestry"
+      "category": "Ancestry",
+      "domain": "N/A"
     }
   ],
   "Community": [
@@ -114,55 +132,64 @@
       "id": 18,
       "name": "highborne",
       "path": "Community/highborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 19,
       "name": "loreborne",
       "path": "Community/loreborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 20,
       "name": "orderborne",
       "path": "Community/orderborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 21,
       "name": "ridgeborne",
       "path": "Community/ridgeborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 22,
       "name": "seaborne",
       "path": "Community/seaborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 23,
       "name": "slyborne",
       "path": "Community/slyborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 24,
       "name": "underborne",
       "path": "Community/underborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 25,
       "name": "wanderborne",
       "path": "Community/wanderborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     },
     {
       "id": 26,
       "name": "wildborne",
       "path": "Community/wildborne.png",
-      "category": "Community"
+      "category": "Community",
+      "domain": "N/A"
     }
   ],
   "Domains": {
@@ -171,127 +198,148 @@
         "id": 27,
         "name": "adjust reality",
         "path": "Domains/Arcana/adjust reality.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 28,
         "name": "arcana-touched",
         "path": "Domains/Arcana/arcana-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 29,
         "name": "arcane reflection",
         "path": "Domains/Arcana/arcane reflection.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 30,
         "name": "blink out",
         "path": "Domains/Arcana/blink out.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 31,
         "name": "chain lightning",
         "path": "Domains/Arcana/chain lightning.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 32,
         "name": "cinder grasp",
         "path": "Domains/Arcana/cinder grasp.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 33,
         "name": "cloaking blast",
         "path": "Domains/Arcana/cloaking blast.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 34,
         "name": "confusing aura",
         "path": "Domains/Arcana/confusing aura.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 35,
         "name": "counterspell",
         "path": "Domains/Arcana/counterspell.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 36,
         "name": "earthquake",
         "path": "Domains/Arcana/earthquake.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 37,
         "name": "falling sky",
         "path": "Domains/Arcana/falling sky.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 38,
         "name": "flight",
         "path": "Domains/Arcana/flight.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 39,
         "name": "floating eye",
         "path": "Domains/Arcana/floating eye.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 40,
         "name": "premonition",
         "path": "Domains/Arcana/premonition.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 41,
         "name": "preservation blast",
         "path": "Domains/Arcana/preservation blast.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 42,
         "name": "rift walker",
         "path": "Domains/Arcana/rift walker.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 43,
         "name": "rune ward",
         "path": "Domains/Arcana/rune ward.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 44,
         "name": "sensory projection",
         "path": "Domains/Arcana/sensory projection.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 45,
         "name": "telekinesis",
         "path": "Domains/Arcana/telekinesis.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 46,
         "name": "unleash chaos",
         "path": "Domains/Arcana/unleash chaos.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       },
       {
         "id": 47,
         "name": "wall walk",
         "path": "Domains/Arcana/wall walk.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Arcana"
       }
     ],
     "Blade": [
@@ -299,127 +347,148 @@
         "id": 48,
         "name": "a soldiers bond",
         "path": "Domains/Blade/a soldiers bond.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 49,
         "name": "battle cry",
         "path": "Domains/Blade/battle cry.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 50,
         "name": "battle monster",
         "path": "Domains/Blade/battle monster.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 51,
         "name": "battle-hardened",
         "path": "Domains/Blade/battle-hardened.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 52,
         "name": "blade-touched",
         "path": "Domains/Blade/blade-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 53,
         "name": "champions edge",
         "path": "Domains/Blade/champions edge.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 54,
         "name": "deadly focus",
         "path": "Domains/Blade/deadly focus.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 55,
         "name": "fortified armor",
         "path": "Domains/Blade/fortified armor.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 56,
         "name": "frenzy",
         "path": "Domains/Blade/frenzy.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 57,
         "name": "get back up",
         "path": "Domains/Blade/get back up.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 58,
         "name": "glancing blow",
         "path": "Domains/Blade/glancing blow.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 59,
         "name": "gore and glory",
         "path": "Domains/Blade/gore and glory.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 60,
         "name": "not good enough",
         "path": "Domains/Blade/not good enough.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 61,
         "name": "onslaught",
         "path": "Domains/Blade/onslaught.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 62,
         "name": "rage up",
         "path": "Domains/Blade/rage up.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 63,
         "name": "reaper strike",
         "path": "Domains/Blade/reaper strike.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 64,
         "name": "reckless",
         "path": "Domains/Blade/reckless.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 65,
         "name": "scramble",
         "path": "Domains/Blade/scramble.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 66,
         "name": "versatile fighter",
         "path": "Domains/Blade/versatile fighter.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 67,
         "name": "vitality",
         "path": "Domains/Blade/vitality.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       },
       {
         "id": 68,
         "name": "whirlwind",
         "path": "Domains/Blade/whirlwind.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Blade"
       }
     ],
     "Bone": [
@@ -427,127 +496,148 @@
         "id": 69,
         "name": "bone-touched",
         "path": "Domains/Bone/bone-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 70,
         "name": "boost",
         "path": "Domains/Bone/boost.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 71,
         "name": "brace",
         "path": "Domains/Bone/brace.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 72,
         "name": "breaking blow",
         "path": "Domains/Bone/breaking blow.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 73,
         "name": "cruel precision",
         "path": "Domains/Bone/cruel precision.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 74,
         "name": "deathrun",
         "path": "Domains/Bone/deathrun.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 75,
         "name": "deft maneuvers",
         "path": "Domains/Bone/deft maneuvers.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 76,
         "name": "ferocity",
         "path": "Domains/Bone/ferocity.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 77,
         "name": "i see it coming",
         "path": "Domains/Bone/i see it coming.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 78,
         "name": "know thy enemy",
         "path": "Domains/Bone/know thy enemy.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 79,
         "name": "on the brink",
         "path": "Domains/Bone/on the brink.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 80,
         "name": "rapid riposte",
         "path": "Domains/Bone/rapid riposte.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 81,
         "name": "recovery",
         "path": "Domains/Bone/recovery.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 82,
         "name": "redirect",
         "path": "Domains/Bone/redirect.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 83,
         "name": "signature move",
         "path": "Domains/Bone/signature move.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 84,
         "name": "splintering strike",
         "path": "Domains/Bone/splintering strike.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 85,
         "name": "strategic approach",
         "path": "Domains/Bone/strategic approach.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 86,
         "name": "swift step",
         "path": "Domains/Bone/swift step.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 87,
         "name": "tactician",
         "path": "Domains/Bone/tactician.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 88,
         "name": "untouchable",
         "path": "Domains/Bone/untouchable.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       },
       {
         "id": 89,
         "name": "wrangle",
         "path": "Domains/Bone/wrangle.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Bone"
       }
     ],
     "Codex": [
@@ -555,127 +645,148 @@
         "id": 90,
         "name": "banish",
         "path": "Domains/Codex/banish.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 91,
         "name": "book of ava",
         "path": "Domains/Codex/book of ava.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 92,
         "name": "book of exota",
         "path": "Domains/Codex/book of exota.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 93,
         "name": "book of grynn",
         "path": "Domains/Codex/book of grynn.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 94,
         "name": "book of homet",
         "path": "Domains/Codex/book of homet.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 95,
         "name": "book of illiat",
         "path": "Domains/Codex/book of illiat.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 96,
         "name": "book of korvax",
         "path": "Domains/Codex/book of korvax.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 97,
         "name": "book of norai",
         "path": "Domains/Codex/book of norai.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 98,
         "name": "book of ronin",
         "path": "Domains/Codex/book of ronin.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 99,
         "name": "book of sitil",
         "path": "Domains/Codex/book of sitil.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 100,
         "name": "book of tyfar",
         "path": "Domains/Codex/book of tyfar.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 101,
         "name": "book of vagras",
         "path": "Domains/Codex/book of vagras.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 102,
         "name": "book of vyola",
         "path": "Domains/Codex/book of vyola.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 103,
         "name": "book of yarrow",
         "path": "Domains/Codex/book of yarrow.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 104,
         "name": "codex-touched",
         "path": "Domains/Codex/codex-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 105,
         "name": "disintegration wave",
         "path": "Domains/Codex/disintegration wave.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 106,
         "name": "manifest wall",
         "path": "Domains/Codex/manifest wall.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 107,
         "name": "safe haven",
         "path": "Domains/Codex/safe haven.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 108,
         "name": "sigil of retribution",
         "path": "Domains/Codex/sigil of retribution.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 109,
         "name": "teleport",
         "path": "Domains/Codex/teleport.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       },
       {
         "id": 110,
         "name": "transcendent union",
         "path": "Domains/Codex/transcendent union.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Codex"
       }
     ],
     "Grace": [
@@ -683,127 +794,148 @@
         "id": 111,
         "name": "astral projection",
         "path": "Domains/Grace/astral projection.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 112,
         "name": "copycat",
         "path": "Domains/Grace/copycat.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 113,
         "name": "deft deceiver",
         "path": "Domains/Grace/deft deceiver.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 114,
         "name": "encore",
         "path": "Domains/Grace/encore.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 115,
         "name": "endless charisma",
         "path": "Domains/Grace/endless charisma.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 116,
         "name": "enrapture",
         "path": "Domains/Grace/enrapture.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 117,
         "name": "grace-touched",
         "path": "Domains/Grace/grace-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 118,
         "name": "hypnotic shimmer",
         "path": "Domains/Grace/hypnotic shimmer.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 119,
         "name": "inspirational words",
         "path": "Domains/Grace/inspirational words.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 120,
         "name": "invisibility",
         "path": "Domains/Grace/invisibility.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 121,
         "name": "mass enrapture",
         "path": "Domains/Grace/mass enrapture.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 122,
         "name": "master of the craft",
         "path": "Domains/Grace/master of the craft.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 123,
         "name": "never upstaged",
         "path": "Domains/Grace/never upstaged.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 124,
         "name": "notorious",
         "path": "Domains/Grace/notorious.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 125,
         "name": "share the burden",
         "path": "Domains/Grace/share the burden.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 126,
         "name": "soothing speech",
         "path": "Domains/Grace/soothing speech.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 127,
         "name": "tell no lies",
         "path": "Domains/Grace/tell no lies.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 128,
         "name": "thought delver",
         "path": "Domains/Grace/thought delver.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 129,
         "name": "through your eyes",
         "path": "Domains/Grace/through your eyes.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 130,
         "name": "troublemaker",
         "path": "Domains/Grace/troublemaker.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       },
       {
         "id": 131,
         "name": "words of discord",
         "path": "Domains/Grace/words of discord.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Grace"
       }
     ],
     "Midnight": [
@@ -811,127 +943,148 @@
         "id": 132,
         "name": "chokehold",
         "path": "Domains/Midnight/chokehold.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 133,
         "name": "dark whispers",
         "path": "Domains/Midnight/dark whispers.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 134,
         "name": "eclipse",
         "path": "Domains/Midnight/eclipse.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 135,
         "name": "glyph of nightfall",
         "path": "Domains/Midnight/glyph of nightfall.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 136,
         "name": "hush",
         "path": "Domains/Midnight/hush.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 137,
         "name": "mass disguise",
         "path": "Domains/Midnight/mass disguise.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 138,
         "name": "midnight spirit",
         "path": "Domains/Midnight/midnight spirit.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 139,
         "name": "midnight-touched",
         "path": "Domains/Midnight/midnight-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 140,
         "name": "night terror",
         "path": "Domains/Midnight/night terror.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 141,
         "name": "phantom retreat",
         "path": "Domains/Midnight/phantom retreat.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 142,
         "name": "pick and pull",
         "path": "Domains/Midnight/pick and pull.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 143,
         "name": "rain of blades",
         "path": "Domains/Midnight/rain of blades.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 144,
         "name": "shadowbind",
         "path": "Domains/Midnight/shadowbind.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 145,
         "name": "shadowhunter",
         "path": "Domains/Midnight/shadowhunter.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 146,
         "name": "specter of the dark",
         "path": "Domains/Midnight/specter of the dark.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 147,
         "name": "spellcharge",
         "path": "Domains/Midnight/spellcharge.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 148,
         "name": "stealth expertise",
         "path": "Domains/Midnight/stealth expertise.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 149,
         "name": "twilight toll",
         "path": "Domains/Midnight/twilight toll.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 150,
         "name": "uncanny disguise",
         "path": "Domains/Midnight/uncanny disguise.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 151,
         "name": "vanishing dodge",
         "path": "Domains/Midnight/vanishing dodge.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       },
       {
         "id": 152,
         "name": "veil of night",
         "path": "Domains/Midnight/veil of night.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Midnight"
       }
     ],
     "Sage": [
@@ -939,133 +1092,155 @@
         "id": 153,
         "name": "conjure swarm",
         "path": "Domains/Sage/conjure swarm.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 154,
         "name": "conjured steeds",
         "path": "Domains/Sage/conjured steeds.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 155,
         "name": "corrosive projectile",
         "path": "Domains/Sage/corrosive projectile.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 156,
         "name": "death grip",
         "path": "Domains/Sage/death grip.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 157,
         "name": "fane of the wilds",
         "path": "Domains/Sage/fane of the wilds.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 158,
         "name": "forager",
         "path": "Domains/Sage/forager.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 159,
         "name": "force of nature",
         "path": "Domains/Sage/force of nature.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 160,
         "name": "forest sprites",
         "path": "Domains/Sage/forest sprites.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 161,
         "name": "gifted tracker",
         "path": "Domains/Sage/gifted tracker.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 162,
         "name": "healing field",
         "path": "Domains/Sage/healing field.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 163,
         "name": "natural familiar",
         "path": "Domains/Sage/natural familiar.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 164,
         "name": "natures tongue",
         "path": "Domains/Sage/natures tongue.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 165,
         "name": "overwhelming aura",
         "path": "Domains/Sage/overwhelming aura.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 166,
         "name": "plant dominion",
         "path": "Domains/Sage/plant dominion.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 167,
         "name": "rejuvenation barrier",
         "path": "Domains/Sage/rejuvenation barrier.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 168,
         "name": "sage-touched",
         "path": "Domains/Sage/sage-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 169,
         "name": "tempest",
         "path": "Domains/Sage/tempest.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 170,
         "name": "thorn skin",
         "path": "Domains/Sage/thorn skin.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 171,
         "name": "towering stalk",
         "path": "Domains/Sage/towering stalk.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 172,
         "name": "vicious entangle",
         "path": "Domains/Sage/vicious entangle.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 173,
         "name": "wild fortress",
         "path": "Domains/Sage/wild fortress.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       },
       {
         "id": 174,
         "name": "wild surge",
         "path": "Domains/Sage/wild surge.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Sage"
       }
     ],
     "Splendor": [
@@ -1073,121 +1248,141 @@
         "id": 175,
         "name": "bolt beacon",
         "path": "Domains/Splendor/bolt beacon.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 176,
         "name": "divination",
         "path": "Domains/Splendor/divination.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 177,
         "name": "final words",
         "path": "Domains/Splendor/final words.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 178,
         "name": "healing hands",
         "path": "Domains/Splendor/healing hands.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 179,
         "name": "healing strike",
         "path": "Domains/Splendor/healing strike.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 180,
         "name": "invigoration",
         "path": "Domains/Splendor/invigoration.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 181,
         "name": "life ward",
         "path": "Domains/Splendor/life ward.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 182,
         "name": "mending touch",
         "path": "Domains/Splendor/mending touch.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 183,
         "name": "reassurance",
         "path": "Domains/Splendor/reassurance.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 184,
         "name": "restoration",
         "path": "Domains/Splendor/restoration.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 185,
         "name": "resurrection",
         "path": "Domains/Splendor/resurrection.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 186,
         "name": "salvation beam",
         "path": "Domains/Splendor/salvation beam.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 187,
         "name": "second wind",
         "path": "Domains/Splendor/second wind.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 188,
         "name": "shape material",
         "path": "Domains/Splendor/shape material.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 189,
         "name": "shield aura",
         "path": "Domains/Splendor/shield aura.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 190,
         "name": "smite",
         "path": "Domains/Splendor/smite.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 191,
         "name": "splendor-touched",
         "path": "Domains/Splendor/splendor-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 192,
         "name": "stunning sunlight",
         "path": "Domains/Splendor/stunning sunlight.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 193,
         "name": "voice of reason",
         "path": "Domains/Splendor/voice of reason.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       },
       {
         "id": 194,
         "name": "zone of protection",
         "path": "Domains/Splendor/zone of protection.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Splendor"
       }
     ],
     "Valor": [
@@ -1195,127 +1390,148 @@
         "id": 195,
         "name": "armorer",
         "path": "Domains/Valor/armorer.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 196,
         "name": "barebones",
         "path": "Domains/Valor/barebones.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 197,
         "name": "body basher",
         "path": "Domains/Valor/body basher.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 198,
         "name": "bold presence",
         "path": "Domains/Valor/bold presence.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 199,
         "name": "critical inspiration",
         "path": "Domains/Valor/critical inspiration.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 200,
         "name": "forceful push",
         "path": "Domains/Valor/forceful push.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 201,
         "name": "full surge",
         "path": "Domains/Valor/full surge.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 202,
         "name": "goad them on",
         "path": "Domains/Valor/goad them on.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 203,
         "name": "ground pound",
         "path": "Domains/Valor/ground pound.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 204,
         "name": "hold the line",
         "path": "Domains/Valor/hold the line.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 205,
         "name": "i am your shield",
         "path": "Domains/Valor/i am your shield.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 206,
         "name": "inevitable",
         "path": "Domains/Valor/inevitable.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 207,
         "name": "lead by example",
         "path": "Domains/Valor/lead by example.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 208,
         "name": "lean on me",
         "path": "Domains/Valor/lean on me.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 209,
         "name": "rise up",
         "path": "Domains/Valor/rise up.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 210,
         "name": "rousing strike",
         "path": "Domains/Valor/rousing strike.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 211,
         "name": "shrug it off",
         "path": "Domains/Valor/shrug it off.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 212,
         "name": "support tank",
         "path": "Domains/Valor/support tank.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 213,
         "name": "unbreakable",
         "path": "Domains/Valor/unbreakable.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 214,
         "name": "unyielding armor",
         "path": "Domains/Valor/unyielding armor.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       },
       {
         "id": 215,
         "name": "valor-touched",
         "path": "Domains/Valor/valor-touched.png",
-        "category": "Domains"
+        "category": "Domains",
+        "domain": "Valor"
       }
     ]
   },
@@ -1324,325 +1540,379 @@
       "id": 216,
       "name": "beastbound foundation",
       "path": "Subclass/beastbound foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 217,
       "name": "beastbound mastery",
       "path": "Subclass/beastbound mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 218,
       "name": "beastbound spec",
       "path": "Subclass/beastbound spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 219,
       "name": "call of the  brave foundation",
       "path": "Subclass/call of the  brave foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 220,
       "name": "call of the brave mastery",
       "path": "Subclass/call of the brave mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 221,
       "name": "call of the brave spec",
       "path": "Subclass/call of the brave spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 222,
       "name": "call of the slayer foundation",
       "path": "Subclass/call of the slayer foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 223,
       "name": "call of the slayer mastery",
       "path": "Subclass/call of the slayer mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 224,
       "name": "call of the slayer spec",
       "path": "Subclass/call of the slayer spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 225,
       "name": "divine wielder foundation",
       "path": "Subclass/divine wielder foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 226,
       "name": "divine wielder mastery",
       "path": "Subclass/divine wielder mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 227,
       "name": "divine wielder spec",
       "path": "Subclass/divine wielder spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 228,
       "name": "elemental origin foundation",
       "path": "Subclass/elemental origin foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 229,
       "name": "elemental origin mastery",
       "path": "Subclass/elemental origin mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 230,
       "name": "elemental origin spec",
       "path": "Subclass/elemental origin spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 231,
       "name": "nightwalker foundation",
       "path": "Subclass/nightwalker foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 232,
       "name": "nightwalker mastery",
       "path": "Subclass/nightwalker mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 233,
       "name": "nightwalker spec",
       "path": "Subclass/nightwalker spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 234,
       "name": "primal origin foundation",
       "path": "Subclass/primal origin foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 235,
       "name": "primal origin mastery",
       "path": "Subclass/primal origin mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 236,
       "name": "primal origin spec",
       "path": "Subclass/primal origin spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 237,
       "name": "school of knowledge foundation",
       "path": "Subclass/school of knowledge foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 238,
       "name": "school of knowledge mastery",
       "path": "Subclass/school of knowledge mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 239,
       "name": "school of knowledge spec",
       "path": "Subclass/school of knowledge spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 240,
       "name": "school of war foundation",
       "path": "Subclass/school of war foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 241,
       "name": "school of war mastery",
       "path": "Subclass/school of war mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 242,
       "name": "school of war spec",
       "path": "Subclass/school of war spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 243,
       "name": "stalwart foundation",
       "path": "Subclass/stalwart foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 244,
       "name": "stalwart mastery",
       "path": "Subclass/stalwart mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 245,
       "name": "stalwart spec",
       "path": "Subclass/stalwart spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 246,
       "name": "syndicate foundation",
       "path": "Subclass/syndicate foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 247,
       "name": "syndicate mastery",
       "path": "Subclass/syndicate mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 248,
       "name": "syndicate spec",
       "path": "Subclass/syndicate spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 249,
       "name": "troubador foundation",
       "path": "Subclass/troubador foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 250,
       "name": "troubador mastery",
       "path": "Subclass/troubador mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 251,
       "name": "troubador spec",
       "path": "Subclass/troubador spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 252,
       "name": "vengeance foundation",
       "path": "Subclass/vengeance foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 253,
       "name": "vengeance mastery",
       "path": "Subclass/vengeance mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 254,
       "name": "vengeance spec",
       "path": "Subclass/vengeance spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 255,
       "name": "warden of renewal foundation",
       "path": "Subclass/warden of renewal foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 256,
       "name": "warden of renewal mastery",
       "path": "Subclass/warden of renewal mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 257,
       "name": "warden of renewal spec",
       "path": "Subclass/warden of renewal spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 258,
       "name": "warden of the elements foundation",
       "path": "Subclass/warden of the elements foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 259,
       "name": "warden of the elements mastery",
       "path": "Subclass/warden of the elements mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 260,
       "name": "warden of the elements spec",
       "path": "Subclass/warden of the elements spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 261,
       "name": "wayfinder foundation",
       "path": "Subclass/wayfinder foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 262,
       "name": "wayfinder mastery",
       "path": "Subclass/wayfinder mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 263,
       "name": "wayfinder spec",
       "path": "Subclass/wayfinder spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 264,
       "name": "winged sentinel foundation",
       "path": "Subclass/winged sentinel foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 265,
       "name": "winged sentinel mastery",
       "path": "Subclass/winged sentinel mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 266,
       "name": "winged sentinel spec",
       "path": "Subclass/winged sentinel spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 267,
       "name": "wordsmith foundation",
       "path": "Subclass/wordsmith foundation.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 268,
       "name": "wordsmith mastery",
       "path": "Subclass/wordsmith mastery.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     },
     {
       "id": 269,
       "name": "wordsmith spec",
       "path": "Subclass/wordsmith spec.png",
-      "category": "Subclass"
+      "category": "Subclass",
+      "domain": "N/A"
     }
   ]
 }
