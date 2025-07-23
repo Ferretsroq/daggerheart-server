@@ -1174,69 +1174,62 @@
       },
       {
         "id": 165,
-        "name": "overwhelming aura",
-        "path": "Domains/Sage/overwhelming aura.png",
-        "category": "Domains",
-        "domain": "Sage"
-      },
-      {
-        "id": 166,
         "name": "plant dominion",
         "path": "Domains/Sage/plant dominion.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 167,
+        "id": 166,
         "name": "rejuvenation barrier",
         "path": "Domains/Sage/rejuvenation barrier.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 168,
+        "id": 167,
         "name": "sage-touched",
         "path": "Domains/Sage/sage-touched.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 169,
+        "id": 168,
         "name": "tempest",
         "path": "Domains/Sage/tempest.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 170,
+        "id": 169,
         "name": "thorn skin",
         "path": "Domains/Sage/thorn skin.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 171,
+        "id": 170,
         "name": "towering stalk",
         "path": "Domains/Sage/towering stalk.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 172,
+        "id": 171,
         "name": "vicious entangle",
         "path": "Domains/Sage/vicious entangle.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 173,
+        "id": 172,
         "name": "wild fortress",
         "path": "Domains/Sage/wild fortress.png",
         "category": "Domains",
         "domain": "Sage"
       },
       {
-        "id": 174,
+        "id": 173,
         "name": "wild surge",
         "path": "Domains/Sage/wild surge.png",
         "category": "Domains",
@@ -1245,58 +1238,65 @@
     ],
     "Splendor": [
       {
-        "id": 175,
+        "id": 174,
         "name": "bolt beacon",
         "path": "Domains/Splendor/bolt beacon.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 176,
+        "id": 175,
         "name": "divination",
         "path": "Domains/Splendor/divination.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 177,
+        "id": 176,
         "name": "final words",
         "path": "Domains/Splendor/final words.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 178,
+        "id": 177,
         "name": "healing hands",
         "path": "Domains/Splendor/healing hands.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 179,
+        "id": 178,
         "name": "healing strike",
         "path": "Domains/Splendor/healing strike.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 180,
+        "id": 179,
         "name": "invigoration",
         "path": "Domains/Splendor/invigoration.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 181,
+        "id": 180,
         "name": "life ward",
         "path": "Domains/Splendor/life ward.png",
         "category": "Domains",
         "domain": "Splendor"
       },
       {
-        "id": 182,
+        "id": 181,
         "name": "mending touch",
         "path": "Domains/Splendor/mending touch.png",
+        "category": "Domains",
+        "domain": "Splendor"
+      },
+      {
+        "id": 182,
+        "name": "overwhelming aura",
+        "path": "Domains/Splendor/overwhelming aura.png",
         "category": "Domains",
         "domain": "Splendor"
       },
